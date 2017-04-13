@@ -1,0 +1,29 @@
+body {
+  color: #00FF00;
+  background-color: #000000;
+  font-family: arial;
+  font-size: 11px;
+  margin: 0;
+}
+
+A{
+  color: #00FF00;
+}
+
+.settings{
+   position: absolute;
+   right: 10px;
+   top: 10px;
+   text-align: right;
+}
+
+.second{
+   position: absolute;
+   left: 0px;
+   top: 0px;
+}
+
+@font-face {
+  font-family: digital-7 mono;
+  src: url(http://www.styleseven.com/data/digital-7_mono.ttf);
+}
